@@ -1,5 +1,6 @@
 # wiki/_checks · Checker 报告
 
+**schema_version:** wiki-claim-v1  
 周日（与 CTA 周回测同日）产出：
 
 `YYYY-MM-DD-check.md`
