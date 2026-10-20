@@ -1,42 +1,39 @@
 # second-brain · 余的第二大脑
 
-> Notion 是云端主脑；本仓库是 **Obsidian 对齐镜像**（待 Grokbot 云电脑 vault 挂载）。
+> 方法对齐 Argona/Karpathy：**Reader 收集 · Librarian 书写 · Checker 怀疑**。  
+> Notion = 手机主控；本仓 = `raw/` + `wiki/` + PARA；OBS 待云电脑接入。
 
-公开研究台：https://12poing-a11y.github.io/  
-Notion 主控：见仓库外 Notion「第二大脑 · 余」
+- 协议：[`PROTOCOL.md`](./PROTOCOL.md)  
+- 研究台：https://12poing-a11y.github.io/  
+- Notion：第二大脑 · 余  
+- 策略仓：https://github.com/12poing-a11y/cta-path-a  
 
-## 文件夹（PARA + 流水）
+## 目录
 
 ```text
-00-Inbox/          未整理捕获
-10-Projects/       有目标有期限
-20-Areas/          长期责任田
-30-Resources/      可复用知识
-40-Archives/       冷却归档
-90-Templates/      模板
-_attachments/      附件
+raw/                 Reader：来源只增不改
+wiki/                Librarian：断言页（Claim/Source/Confirmed）
+wiki/CTA/            当前唯一深耕主题
+wiki/_checks/        Checker：周日审计报告
+00-Inbox/            临时捕获（可迁入 raw）
+10-Projects/         PARA · 项目
+20-Areas/            PARA · 领域
+30-Resources/        PARA · 资源
+40-Archives/
+90-Templates/        Wiki-Claim 等模板
+PROTOCOL.md          三角色与字段纪律
 ```
 
-## 工作流（每天 5 分钟）
+## 铁律
 
-1. 任何想法先进 `00-Inbox/` 或 Notion Inbox 卡片  
-2. 当天或周末：改写成一条 Project / Area / Resource  
-3. 可公开结论 → 推到 `cta-path-a` 或更新 Pages `data/`  
-4. 密钥、账户、未脱敏日志 **不进本仓**
+1. **每页三字段**：Claim / Source / Confirmed（+ Status）  
+2. **矛盾不静默覆盖** → disputed + 问人  
+3. **30 天无新来源** → unconfirmed  
+4. **先做一个主题**：中国期货 CTA 路径A  
+5. 好答案必须回写成 wiki 页  
 
-## 与交易系统的边界
+## 周日例行（15 分钟）
 
-| 内容 | 放哪 |
-|------|------|
-| 日信号 / 回测数字 | `cta-path-a` + Notion CTA 台账 |
-| 盘前叙事 / 品种故事 | Notion 期货每日分析库 |
-| 原则、检查单、人生/系统决策 | 本仓 / 第二大脑卡片 |
-| Agent 长期记忆 | Notion Memories |
-
-## OBS 接入（下一步）
-
-1. 在 Grokbot 云电脑打开/新建 vault  
-2. 将 vault 根目录指向本仓库 clone，或 git submodule  
-3. 启用同名文件夹；用 Git 或 Syncthing 同步  
-
-未接通前，只维护 Notion 卡片 + 本仓 Markdown。
+1. CTA 周回测  
+2. 跑 Checker → `wiki/_checks/YYYY-MM-DD-check.md`  
+3. 清 Notion Inbox / `00-Inbox/`  
