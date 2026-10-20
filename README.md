@@ -12,9 +12,11 @@
 
 ```text
 raw/                 Reader：来源只增不改
+raw/desk/            盘前叙事（desk-note-v1）
 wiki/                Librarian：断言页（Claim/Source/Confirmed）
 wiki/CTA/            当前唯一深耕主题
 wiki/_checks/        Checker：周日审计报告
+wiki/_index/         合并映射 merge-map、待同步 Notion 清单
 00-Inbox/            临时捕获（可迁入 raw）
 10-Projects/         PARA · 项目
 20-Areas/            PARA · 领域
