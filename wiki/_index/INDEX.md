@@ -22,4 +22,4 @@
 - `raw/2026-10-20-argona-second-brain-pattern.md` — Argona0x 三角色短帖
 - `raw/2026-10-20-argona-second-brain-full-course.md` — Argona0x 七章完整教程
 
-维护：Librarian（小G）新增/改页时同步本页一行。
+维护：小G（Librarian）新增或改页时同步本页一行；不设新角色。
