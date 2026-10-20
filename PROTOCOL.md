@@ -38,3 +38,29 @@ Status:    confirmed | unconfirmed | disputed
 当前唯一深耕主题：**中国商品期货 · CTA 路径A**  
 
 其它主题只进 Inbox/raw，不建完整 wiki，直到 CTA 闭环稳定。
+
+## 补充（2026-10-20）：Planner 与团队映射
+
+| 角色 | 团队成员 | 职责 / 写哪里 |
+|------|----------|---------------|
+| Planner | 首席幕僚 | 编排派单，不直接写 wiki |
+| Reader | 小秘 | 来源 → `raw/` + Inbox |
+| Librarian | 小G | `wiki/` 断言页 |
+| Checker | 小N | `wiki/_checks/`，冲突标 disputed |
+| 周日 Checker 审计 | 复盘官 | 每周 `wiki/_checks/YYYY-MM-DD-check.md` |
+
+### 回复开头（强制）
+
+```text
+角色: Reader|Librarian|Checker|Planner
+拟改文件: …
+需要你确认: 是/否 + 问题
+```
+
+### schema_version
+
+`desk-note-v1`（raw/desk，默认 tradable=false）· `wiki-claim-v1` · `cta-signal-v1` · `cta-backtest-v1`。路径与合并规则见 [`wiki/_index/merge-map.md`](./wiki/_index/merge-map.md)。
+
+### 安全边界
+
+未经磊确认：不删文件、不 force-push、不改 Secrets、不联系外部人或发帖、不下单。改 cta-path-a 代码或 Actions 前先征得同意。
