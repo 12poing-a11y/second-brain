@@ -8,3 +8,6 @@
 | `wiki/_checks/README.md` | 待同步 |
 | `wiki/_index/merge-map.md` | 待同步 |
 | `wiki/_index/notion-sync-pending.md` | 待同步 |
+| `wiki/desk/decision-rules.md` | 待同步（2026-10-30 新增） |
+| `raw/desk/2026-10-30-positions-snapshot.md` | 待同步（2026-10-30 新增） |
+| `raw/desk/2026-10-30-project-log-finals-index.md` | 待同步（2026-10-30 新增） |
