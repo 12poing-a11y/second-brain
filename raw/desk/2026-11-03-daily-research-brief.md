@@ -152,4 +152,47 @@ Fed 10/28利率3.75%—4.00%，两名委员偏鹰；10/30美国2年/10年/30年�
 | 美国AI/半导体 | 前一观察窗承压 | EPS修正、现金流、广度 | 盈利和广度同步改善 |
 | A股半导体/存储/算力 | 截至10/30弱于大盘 | 成交扩散、订单、业绩指引 | 仅龙头反弹、广度恶化 |
 | A股消费/高股息 | 前期相对防御，今日缺口 | 连续相对收益、盈利兑现 | 防御资金撤出 |
-| 国内玻璃FG2701 | 午间+2.08%，OI下降 | 现货成交、库存、产线变化 | 现货不跟涨、持仓继续下降
+| 国内玻璃FG2701 | 午间+2.08%，OI下降 | 现货成交、库存、产线变化 | 现货不跟涨、持仓继续下降 |
+
+最强趋势方向不足3个，FG仅为异动不升级为趋势机会。最弱方向：油品链、PTA及部分化工链、MA及部分聚烯烃链。最明显分化：油价风险溢价与实物供应；甲醇期货与现货/库存验证；AI需求与资本回报。未来重点验证：Brent/WTI与SC价差、霍尔木兹装船/保险/运费、EIA库存/炼厂开工、甲醇库存/到港/MTO/基差、A股科技广度与盈利预测修正。
+
+## 12. 未来事件日历与风险机会
+
+| 北京时间 | 事件 | 观察重点 |
+| --- | --- | --- |
+| 11/3 | 美国中期选举日 | 选举结果与政策预期，不预设市场方向 |
+| 11/4 23:30（以EIA官方日程为准） | EIA周度石油报告，统计周截至10/30 | 商业原油、汽油、馏分油、炼厂开工、出口 |
+| 11/4 | 美国服务业景气数据，时间需官方日历复核 | 新订单、就业、价格分项 |
+| 未来1—5日 | 中国商品库存、仓单、装置开工和到港更新 | 以实际发布时间更新 |
+| 11/10 | USDA WASDE下一期报告（按官方日程） | 棉花产量、消费、贸易和库存修正 |
+
+\*\*机会：\*\*①油品链波动率/价差：若风险溢价回吐但实物供应未恢复，可能快速反抽，先核现货升贴水和航运；②甲醇结构机会：期货跌而现货不跌、库存去化时关注期现背离；③A股科技精选：只筛选订单、毛利率、自由现金流和盈利预测可验证公司。
+
+\*\*风险：\*\*①中东航道实物供应冲击升级；②PMI订单偏弱扩散至化工、纺织和周期品；③AI资本回报率重估传导至融资、资本开支和盈利预期。
+
+## 13. 数据缺口与来源索引
+
+- 国内商品：午间扫描有50品种、11项异动和两源一致性；缺全市场官方结算、仓单、前20席位和期权IV原始表。
+- 原油：缺实际装船损失/恢复量、OPEC+当期产量/闲置产能、美国库存最新实值、保险费率及同截点Brent/WTI/SC价差。
+- 甲醇：缺本周产量/开工、进口到港、港口/内地库存、表观消费、下游消耗和成本利润。
+- 棉花：完整模块以11/3 08:04唯一主报告为准；午间CF值来自扫描，不替代日终行情。
+- 美国/全球：缺11/2美股收盘、VIX、实际利率、信用利差、DXY和市场广度同截点数据。
+- A股：缺11/3指数收盘、行业广度、中位数收益、ETF申赎、融资余额、互联互通资金及均线。
+- 投行：未核实足够的11/3最近7天新增公开报告。
+
+来源：
+
+- <mention url="https://app.notion.com/p/40dca62ab5a7817caa4ce32e701fdb2f" />
+- <mention url="https://app.notion.com/p/40dca62ab5a7811ab095c89180d6e2e3" />
+- [GitHub：11/3统一棉花主报告](https://github.com/12poing-a11y/second-brain/blob/main/raw/desk/2026-11-03-CF2701-dynamic-valuation.md)
+- [Fed 10/28 FOMC声明](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)
+- [美国财政部10月收益率曲线](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve)
+- [国家统计局](https://www.stats.gov.cn/)
+- [USDA WASDE](https://www.usda.gov/oce/commodity/wasde/wasde-report)
+- [EIA周度石油报告](https://www.eia.gov/petroleum/supply/weekly/)
+- [IMF WEO October 2026](https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026)
+- [ISM报告日历](https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar)
+
+## 14. 归档说明
+
+Notion：期货每日分析库；标题“2026-11-03｜每日投研简报”；日期2026-11-03；品种MA/CF/其他；板块跨品种；类型盘前详析；方向震荡；状态已汇总。<br />GitHub：raw/desk/[2026-11-03-daily-research-brief.md](http://2026-11-03-daily-research-brief.md)。遵循Reader只增不改；仅在两端写入并回读成功后标记双端完成。
