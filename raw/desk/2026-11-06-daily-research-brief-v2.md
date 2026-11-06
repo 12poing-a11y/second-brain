@@ -1,5 +1,5 @@
 > 角色：Reader  
-> 拟改文件：raw/desk/2026-11-06-daily-research-brief.md  
+> 拟改文件：raw/desk/2026-11-06-daily-research-brief-v2.md  
 > 需要你确认：否  
 > 数据截点：2026-11-06 08:31（北京时间）。中国为11月6日正常交易日；国内行情使用11月5日日盘收盘及11月5日夜盘（夜盘归属11月6日交易日），海外使用11月5日当地收盘/结算。盘前报告，不是11月6日收盘复盘。价格情景均为研究区间，不是保证预测或交易指令。
 
@@ -89,7 +89,8 @@
 
 | 指标 | 最新值 | 前值/预期 | 解读 |
 |---|---|---|---|
-| 美国2026年Q3实际GDP | 年化环比+3.4% | Q2 +2.2% | 投资、消费和政府支出贡献为正，出口下降；增长并未呈现典型衰退特征 |\n| Q3 PCE价格指数（年化环比） | +2.1%；核心PCE +2.5% | Q2分别+5.0%、+3.3% | 季度价格指标较前季放缓；不是月度同比CPI/PCE，不能直接替代月度通胀趋势 |
+| 美国2026年Q3实际GDP | 年化环比+3.4% | Q2 +2.2% | 投资、消费和政府支出贡献为正，出口下降；增长并未呈现典型衰退特征 |
+| Q3 PCE价格指数（年化环比） | +2.1%；核心PCE +2.5% | Q2分别+5.0%、+3.3% | 季度价格指标较前季放缓；不是月度同比CPI/PCE，不能直接替代月度通胀趋势 |
 | 初请失业金 | 189,000，周降6,000 | 前周195,000 | 处于较低水平，裁员压力有限；续请升至171.8万，需观察就业再就业速度 |
 | Q3劳动生产率 | 年化+3.6% | 市场预期约+2.8% | 有利于单位产出成本下降 |
 | Q3单位劳动力成本 | -0.7% | 市场预期约+0.6% | 劳动成本暂未形成明显再通胀压力 |
@@ -104,7 +105,8 @@
 - 半导体指数跌约12%；Nvidia跌约9.3%、AMD跌约17.3%。AI数据中心开发商、云基础设施公司和部分电力设备商同步下跌。
 - VIX升至约28，表明保护性需求上升。美国国债收益率因避险需求回落，美元偏弱；本轮没有取得同一时点、同一来源的2年/10年收益率和实际利率完整序列，因此不填精确点位。
 - Brent上涨与美股下跌并存，说明本轮不是传统单一的“增长衰退交易”：股市主要在重新评估AI资本开支与政策风险，油价主要反映地缘航运风险。
-- 11月5日标普500的11个行业板块全部收跌，信息技术板块跌幅约7.3%；科技板块领跌说明卖压已从少数AI个股扩散。\n- 等权重标普相对市值加权、标普上涨/下跌家数、新高新低、信用利差和全市场EPS修正广度，本轮没有取得足够可核验的完整快照；不对美国市场广度给出伪精确结论。
+- 11月5日标普500的11个行业板块全部收跌，信息技术板块跌幅约7.3%；科技板块领跌说明卖压已从少数AI个股扩散。
+- 等权重标普相对市值加权、标普上涨/下跌家数、新高新低、信用利差和全市场EPS修正广度，本轮没有取得足够可核验的完整快照；不对美国市场广度给出伪精确结论。
 
 ## 3.3 AI资本开支与估值
 
@@ -415,7 +417,8 @@ USTR现行公告将178项中国Section 301排除延至2026年11月10日；截至
 
 - [Reuters：Brent在船舶事件后反弹，2026-11-05](https://www.reuters.com/business/energy/oil-falls-fourth-day-expectations-lower-risk-iran-war-escalation-2026-11-05/)
 - [EIA：Weekly Petroleum Status Report](https://www.eia.gov/petroleum/supply/weekly/)
-- [EIA：Weekly Petroleum Status Report发布日历](https://www.eia.gov/petroleum/supply/weekly/schedule.php)\n- [EIA：Short-Term Energy Outlook发布日历](https://www.eia.gov/outlooks/steo/release_schedule.php)
+- [EIA：Weekly Petroleum Status Report发布日历](https://www.eia.gov/petroleum/supply/weekly/schedule.php)
+- [EIA：Short-Term Energy Outlook发布日历](https://www.eia.gov/outlooks/steo/release_schedule.php)
 - [AP：美国股市AI相关股票抛售，2026-11-05](https://apnews.com/article/7ee9c212805aa5e70cf34d25aab7a36e)
 - [Reuters：美国初请失业金和Q3生产率，2026-11-05](https://www.reuters.com/business/world-at-work/us-weekly-jobless-claims-57-year-lows-amid-low-layoffs-2026-11-05/)
 - [BEA：2026年Q3 GDP与PCE价格初值](https://www.bea.gov/index.php/news/2026/gdp-advance-estimate-3rd-quarter-2026)
@@ -433,7 +436,8 @@ USTR现行公告将178项中国Section 301排除延至2026年11月10日；截至
 - [金联创：甲醇及下游数据入口](https://chem.315i.com/jcjxy.html)
 - [我的钢铁/隆众：2026年9月甲醇进出口统计](https://nenghua.mysteel.com/a/26102009/A65F04C5F081EC85.html)
 - [冠通期货：甲醇日报，2026-11-05](https://rep.hibor.com.cn/data/6a7f5b84c1711e561fa2d1bffd533726.html)
-- [新浪财经：A股11月5日收盘与行业表现](https://finance.sina.com.cn/jjxw/2026-11-05/doc-inixsmiu5599974.shtml)\n- [上证指数：11月5日均线与区间收益计算](https://www.tansuoguangnian.com/markets/sh000001)
+- [新浪财经：A股11月5日收盘与行业表现](https://finance.sina.com.cn/jjxw/2026-11-05/doc-inixsmiu5599974.shtml)
+- [上证指数：11月5日均线与区间收益计算](https://www.tansuoguangnian.com/markets/sh000001)
 - [长电科技2026年三季报点评](https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/search/rptid/846260149172/index.phtml)
 - [江西铜业2026年三季报](https://www.cfi.net.cn/p20261028003169.html)
 - [恒力石化2026年三季报公告入口](https://money.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/600346.phtml)
