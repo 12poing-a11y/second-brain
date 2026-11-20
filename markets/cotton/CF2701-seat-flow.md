@@ -92,3 +92,31 @@
 - 仓库：<https://github.com/12poing-a11y/second-brain>
 - 文件路径：`markets/cotton/CF2701-seat-flow.md`
 - 本文是跟踪规范与历史基线，不代表已取得最新交易日席位数据；每次分析必须重新核验来源与统计日期。
+
+
+## 2026-11-19 Daily Evidence (archived 2026-11-20)
+
+**Claim:** CF2701 Top20 long/short totals and price/OI on 2026-11-19 show net-long improvement largely driven by short reduction, not strong evidence of fresh long accumulation.  
+**Source:** Cotway 2026-11-19 archive (direct Zhengzhou member-position file parsing claimed; row-level validation reported): https://cotway.net/archive/2026-11-19.html ; independent cross-check: https://data.bywl.top/members-positions/ ; seat detail snapshot: https://www.yyyyyyyy.cloud/p/CF/  
+**Confirmed:** 2026-11-20. **Status:** disputed on Top20 net-change arithmetic; core totals are source-reported, not independently downloaded from the official XLSX in this run.
+
+| Date | CF2701 day close / settle | Day volume | Day OI / change | Top20 long / change | Top20 short / change | Net long / change |
+|---|---:|---:|---:|---:|---:|---:|
+| 2026-11-19 | 15,525 / 15,455 | 411,000 | 613,774 / -11,046 | 457,172 / -1,456 | 424,464 / -9,899 | 32,708 / +8,443* |
+
+\* A second source reports net-long change +8,069. Preserve as disputed; do not silently replace. 11/18 reported net long 24,265 under the first source's basis.
+
+Night session (trade date 11/20): CF2701 15,570 (+115 vs 11/19 settlement 15,455), volume 159,400, OI 620,307 (+6,533 vs day-session close). No night-session member differential available.
+
+Key member evidence (11/19):
+- CITIC: long 67,235 (+1,864), short 57,230 (-3,217), reported net long 10,005 (+5,081).
+- Guotai Junan: long 52,769 (+2,792), short 42,640 (-66), reported net long 10,129 (+2,858).
+- Galaxy: long 34,894 (+56), short 44,179 (+917), net short remains; member's long/short changes diverge.
+- COFCO: long 34,756 (+1,475); net-short rank entry 4,384 (-1,315), source tables differ by ranking type; do not net without matching scope.
+- Top net-short ranks: YongAn 26,087 (-81), Nanhua 15,162 (+224), Changjiang 10,765 (+529), Guangfa 10,661 (-650), RuiDa 9,780 (+203), Galaxy 9,285 (+861), Guoxin 8,938 (-529), China International 8,896 (+780), COFCO 4,384 (-1,315).
+
+**Inference:** day-session OI contracted while Top20 short holdings fell substantially more than long holdings, consistent with short covering/position reduction. Night-session price and OI rose, implying new exposure entered but direction cannot be identified without night member data. Do not equate seats with industry hedging.
+
+**3–5 day assessment:** 11/17, 11/18, 11/19 day-session OI changes approximately -7,874, -8,307, -11,046 (aggregate -27,227); 11/19 night +6,533 partially reversed the contraction. Top20 complete 3/5-day series is missing; seat-flow score remains **not scored**.
+
+**Next validation:** official Zhengzhou XLSX; daily Top20 long/short net-change consistency; 11/20 old-warrant cancellation and new-crop registration; whether rebound holds 15,625–15,635 with OI and spot-basis confirmation.
