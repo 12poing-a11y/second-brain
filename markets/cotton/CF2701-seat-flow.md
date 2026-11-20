@@ -97,7 +97,7 @@
 ## 2026-11-19 Daily Evidence (archived 2026-11-20)
 
 **Claim:** CF2701 Top20 long/short totals and price/OI on 2026-11-19 show net-long improvement largely driven by short reduction, not strong evidence of fresh long accumulation.  
-**Source:** Cotway 2026-11-19 archive (direct Zhengzhou member-position file parsing claimed; row-level validation reported): https://cotway.net/archive/2026-11-19.html ; independent cross-check: https://data.bywl.top/members-positions/ ; seat detail snapshot: https://www.yyyyyyyy.cloud/p/CF/  
+**Source:** Cotway 2026-11-19 archive (direct Zhengzhou member-position file parsing claimed; row-level validation reported): https://cotway.net/archive/2026-11-19.html ; independent cross-check: https://data.bywl.top/members-positions/ ; independent cross-check: https://data.bywl.top/members-positions/  
 **Confirmed:** 2026-11-20. **Status:** disputed on Top20 net-change arithmetic; core totals are source-reported, not independently downloaded from the official XLSX in this run.
 
 | Date | CF2701 day close / settle | Day volume | Day OI / change | Top20 long / change | Top20 short / change | Net long / change |
